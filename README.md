@@ -10,13 +10,13 @@ __NOTE__: I only tested the Program with FL Studio 20 and it will probably throw
 - Compile the program.
 
 * **HOW TO INSTALL (with autostart)**
-- Download the current release.
+- Compile the Source Code.
 - Press WIN + R and paste "shell:startup" into the prompt.
 - Copy the .exe into the folder or copy a shortcut to the .exe into it.
 - Execute the .exe or restart your PC and enjoy.
 
 * **HOW TO INSTALL (without autostart)**
-- Download the current release.
+- Compile the Source Code.
 - Place the .exe somewhere you will __find it again__.
 - Execute the .exe and enjoy.
 
